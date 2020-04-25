@@ -35,4 +35,4 @@ module_exit(exitPoint);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("List tasks linearly");
-MODULE_AUTHOR("Youssef Hassan, 900132871");
+MODULE_AUTHOR("Basan");
